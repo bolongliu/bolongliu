@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bolongliu
+- 👋 Hi, I’m bolongliu
 - 👀 I’m interested in deep learning 
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on deep learning research
